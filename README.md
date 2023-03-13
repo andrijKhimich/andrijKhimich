@@ -7,10 +7,6 @@ Front End developer
 I have more than 5 years of web development experience. In my work, I always try to provide the latest technologies and features for creating modern web interfaces.
 
 * 🌍  I'm based in Ukraine
-* 🖥️  See my portfolio at [khimich.dev](http://khimich.dev)
-* ✉️  You can contact me at [andrijkhmich@gmail.com](mailto:andrijkhmich@gmail.com)
-* 🚀  I'm currently working on [Personal silte](http://khimich.dev)
-* 🧠  I'm learning Tree js
 * 🤝  I'm open to collaborating on creative projects
 
 ### Skills
@@ -28,12 +24,6 @@ I have more than 5 years of web development experience. In my work, I always try
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100007068667857" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/andrijKhimich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/andrew_khimich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrii-khimich-b83180147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
