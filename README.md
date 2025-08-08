@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrii Khimich
+Hi 👋 My name is Andrew Khimich
 ===============================
 
 Front End developer
