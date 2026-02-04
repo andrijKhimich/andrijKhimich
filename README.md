@@ -6,7 +6,7 @@ Front End developer
 
 I have more than 5 years of web development experience. In my work, I always try to provide the latest technologies and features for creating modern web interfaces.
 
-* 🌍  I'm based in Ukraine
+* 🌍  I'm based in Poland
 * 🤝  I'm open to collaborating on creative projects
 
 ### Skills
